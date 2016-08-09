@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="asmack-jse-buddycloud-2010.12.11">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/asmack-jse-buddycloud-2010.12.11.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
